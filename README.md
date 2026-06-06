@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/1d/ce/ec/1dceec978bebbdff33f830a8e0ae98d9.gif" width="100%" alt="Monochrome Banner" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Mainak;Creative+Technologist;ML+Engineer;Building+Zero-Trust+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Mainak;Creative+Technologist;ML+Engineer;Professional+Bug+Creator" alt="Typing SVG" />
 </div>
 
 <br>
@@ -10,14 +10,16 @@
 
 <table border="0">
   <tr>
-    <td width="70%" valign="top">
+    <td width="75%" valign="top">
       <h3>📂 // SYSTEM_OVERVIEW</h3>
       <p>
         <b>Bridging the gap between Machine Learning and Creative Engineering.</b><br>
-        Specialized in high-performance cinematic interfaces and secure ML architectures.
+        Currently turning caffeine into code and "it works on my machine" into "it works on yours too" (most of the time). I specialize in high-performance cinematic interfaces and secure ML architectures that don't sleep (unlike me).
       </p>
       <br>
-      <h3>🛠️ // CORE_TECH_STACK</h3>
+      <i>STATUS: Currently debugging my life while 42 tabs are judging me in the background.</i>
+      <br><br>
+      <h3>🛠️ // WEAPONS_OF_CHOICE</h3>
       <p>
         <img src="https://cdn.simpleicons.org/python/white" height="25" alt="python" />
         <img width="8" />
@@ -34,7 +36,7 @@
         <img src="https://cdn.simpleicons.org/docker/white" height="25" alt="docker" />
       </p>
     </td>
-    <td width="30%" align="right" valign="top">
+    <td width="25%" align="right" valign="top">
       <img src="https://i.pinimg.com/originals/91/53/5b/91535bc90a800b532116028457cdd0f9.jpg" width="180" alt="Avatar" />
     </td>
   </tr>
@@ -59,17 +61,17 @@
 
 <br>
 
-### 🚀 // FEATURED_WORK
+### 🚀 // FEATURED_EXPERIMENTS
 
-| Project | Description | Stack |
+| Project | Funny_Reality_Check | Stack |
 | :--- | :--- | :--- |
-| **AI_SLOP_DETECTOR** | Enterprise ML suite for neutralizing AI slop. | `Transformers` `FastAPI` |
-| **CANCER_PREDICTION** | Predictive modeling for biological pathways. | `Scikit-learn` `SHAP` |
-| **STUDIO_PORTFOLIO** | GPU-accelerated cinematic UI experiences. | `React 19` `Framer Motion` |
+| **AI_SLOP_DETECTOR** | A digital Febreze for your timeline—neutralizing AI slop before it spreads. | `ML` `FastAPI` |
+| **CANCER_PREDICTION** | Teaching math to fight bio-drama because cells be acting up sometimes. | `SHAP` `Scikit-learn` |
+| **STUDIO_PORTFOLIO** | GPU-accelerated eye candy that uses more power than my last 3 browser tabs. | `React 19` `Motion` |
 
 <br>
 
-### 📬 // CONNECT_TERMINAL
+### 📬 // SECURE_COMM_CHANNELS
 <p align="left">
   <a href="https://linkedin.com/in/fs0cietyx"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&border=1px" /></a>
   <a href="https://instagram.com/fs0cietyx"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
