@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/1d/ce/ec/1dceec978bebbdff33f830a8e0ae98d9.gif" width="100%" alt="Monochrome Banner" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Mainak;CS+student+and+developer;turning+complex+problems+into;intelligent+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+Mainak+Biswas;CS+student+and+developer;turning+complex+problems+into;intelligent+solutions" alt="Typing SVG" />
 </div>
 
 <br>
@@ -50,13 +50,17 @@
 
 <br>
 
+<div align="right">
+  <img src="https://i.pinimg.com/originals/91/53/5b/91535bc90a800b532116028457cdd0f9.jpg" height="120" />
+</div>
+
 ### 🚀 NOTABLE PROJECTS
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **AI_SLOP_DETECTOR** | Enterprise ML suite for neutralizing AI slop. | `Transformers` `FastAPI` |
-| **CANCER_PREDICTION** | Predictive modeling for biological pathways. | `Scikit-learn` `SHAP` |
-| **STUDIO_PORTFOLIO** | GPU-accelerated cinematic UI experiences. | `React 19` `Framer Motion` |
+| **ai-slop-detector** | Enterprise ML suite for neutralizing AI slop. | `Transformers` `FastAPI` |
+| **cancer-cell-growth-prediction** | Cancer cell growth prediction using protein expression data. | `Scikit-learn` `SHAP` |
+| **portfolio** | GPU-accelerated cinematic UI experiences. | `React 19` `Framer Motion` |
 
 <br>
 
@@ -68,7 +72,3 @@
 </p>
 
 <br>
-
-<div align="right">
-  <img src="https://i.pinimg.com/originals/91/53/5b/91535bc90a800b532116028457cdd0f9.jpg" height="120" />
-</div>
