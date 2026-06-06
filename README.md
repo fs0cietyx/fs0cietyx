@@ -33,6 +33,10 @@
         <img width="8" />
         <img src="https://cdn.simpleicons.org/tailwindcss/white" height="25" alt="tailwindcss" />
         <img width="8" />
+        <img src="https://cdn.simpleicons.org/cplusplus/white" height="25" alt="c++" />
+        <img width="8" />
+        <img src="https://cdn.simpleicons.org/linux/white" height="25" alt="linux" />
+        <img width="8" />
         <img src="https://cdn.simpleicons.org/docker/white" height="25" alt="docker" />
       </p>
     </td>
