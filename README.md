@@ -26,23 +26,27 @@
 
 <div align="left">
   <b>// Tech Stack & Tooling</b><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/python/white" height="35" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" style="filter: grayscale(100%)" />
+  <img src="https://cdn.simpleicons.org/pytorch/white" height="35" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="30" alt="fastapi logo"  />
+  <img src="https://cdn.simpleicons.org/fastapi/white" height="35" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.simpleicons.org/pandas/white" height="35" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="filter: grayscale(100%)" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/white" height="35" alt="scikitlearn logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/typescript/white" height="35" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/react/white" height="35" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/white" height="35" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.simpleicons.org/docker/white" height="35" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/white" height="35" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/white" height="35" alt="linux logo"  />
 </div>
 
 ###
