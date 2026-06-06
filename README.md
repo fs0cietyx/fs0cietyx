@@ -52,12 +52,28 @@
 ###
 
 <div align="left">
-  <b>// Featured Work</b>
-  <ul>
-    <li>🤖 <b>AI Slop Detector</b>: Enterprise ML suite for detecting AI-generated content (Transformers/PEFT).</li>
-    <li>🧬 <b>Cancer Growth Prediction</b>: Predictive modeling & interpretability for biological pathways (Scikit-learn/SHAP).</li>
-    <li>🖥️ <b>Creative Portfolio</b>: GPU-accelerated cinematic UI built with React 19 & Framer Motion.</li>
-  </ul>
+  <b>// FEATURED_PROJECTS</b>
+  <br><br>
+  
+  <b>01. AI_SLOP_DETECTOR</b>
+  <br>
+  <i>Enterprise ML suite for neutralizing AI-generated content.</i>
+  <br>
+  <code>Transformers</code> • <code>PEFT</code> • <code>FastAPI</code>
+  <br><br>
+
+  <b>02. CANCER_CELL_PREDICTION</b>
+  <br>
+  <i>Predictive modeling and interpretability for biological pathways.</i>
+  <br>
+  <code>Scikit-learn</code> • <code>SHAP</code> • <code>Pandas</code>
+  <br><br>
+
+  <b>03. CREATIVE_PORTFOLIO</b>
+  <br>
+  <i>GPU-accelerated cinematic UI for high-fidelity experiences.</i>
+  <br>
+  <code>React 19</code> • <code>Framer Motion</code> • <code>TypeScript</code>
 </div>
 
 ###
