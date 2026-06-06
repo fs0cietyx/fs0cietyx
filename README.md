@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/1d/ce/ec/1dceec978bebbdff33f830a8e0ae98d9.gif" width="100%" alt="Monochrome Banner" />
+</div>
+
 <h2 align="left">Hi 👋! My name is Mainak and I'm a Creative Technologist & ML Engineer, from India.</h2>
 
 ###
