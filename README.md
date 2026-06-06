@@ -11,15 +11,15 @@
 <table border="0">
   <tr>
     <td width="75%" valign="top">
-      <h3>📂 // SYSTEM_OVERVIEW</h3>
+      <h3>📂about me</h3>
       <p>
-        <b>Bridging the gap between Machine Learning and Creative Engineering.</b><br>
+        <b>Bridging the gap between Machine Learning and a proper sleep schedule.</b><br>
         Currently turning caffeine into code and "it works on my machine" into "it works on yours too" (most of the time). I specialize in high-performance cinematic interfaces and secure ML architectures that don't sleep (unlike me).
       </p>
       <br>
       <i>STATUS: Currently debugging my life while 42 tabs are judging me in the background.</i>
       <br><br>
-      <h3>🛠️ // WEAPONS_OF_CHOICE</h3>
+      <h3>🛠️ weapons of choice</h3>
       <p>
         <img src="https://cdn.simpleicons.org/python/white" height="25" alt="python" />
         <img width="8" />
@@ -61,17 +61,17 @@
 
 <br>
 
-### 🚀 // FEATURED_EXPERIMENTS
+### 🚀top caffeine uses
 
-| Project | Funny_Reality_Check | Stack |
+| Project |  | Stack |
 | :--- | :--- | :--- |
-| **AI_SLOP_DETECTOR** | A digital Febreze for your timeline—neutralizing AI slop before it spreads. | `ML` `FastAPI` |
-| **CANCER_PREDICTION** | Teaching math to fight bio-drama because cells be acting up sometimes. | `SHAP` `Scikit-learn` |
-| **STUDIO_PORTFOLIO** | GPU-accelerated eye candy that uses more power than my last 3 browser tabs. | `React 19` `Motion` |
+| **ai-slop-detector** | A digital Febreze for your timeline-neutralizing AI slop before it spreads. | `ML` `FastAPI` |
+| **cancer-prediction** | Teaching math to fight bio-drama because cells be acting up sometimes. | `SHAP` `Scikit-learn` |
+| **studio-portfolio** | GPU-accelerated eye candy that uses more power than my last 3 browser tabs. | `React 19` `Motion` |
 
 <br>
 
-### 📬 // SECURE_COMM_CHANNELS
+### 📬secure comm chanels
 <p align="left">
   <a href="https://linkedin.com/in/fs0cietyx"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&border=1px" /></a>
   <a href="https://instagram.com/fs0cietyx"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
