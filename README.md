@@ -1,21 +1,20 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/1d/ce/ec/1dceec978bebbdff33f830a8e0ae98d9.gif" width="100%" alt="Monochrome Banner" />
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Mainak;Creative+Technologist;ML+Engineer;Building+Zero-Trust+Systems" alt="Typing SVG" />
 </div>
-
-<h2 align="left">Hi 👋! My name is Mainak and I'm a Creative Technologist & ML Engineer, from India.</h2>
 
 ###
 
 <p align="left">
-  <b>Bridging the gap between Machine Learning and Creative Engineering.</b><br>
-  I specialize in building secure ML architectures (NLP/Predictive Modeling) and high-performance, cinematic web interfaces. 
+  <b>// SYSTEM_OVERVIEW</b><br>
+  Bridging the gap between Machine Learning and Creative Engineering. I specialize in building secure ML architectures (NLP/Predictive Modeling) and high-performance, cinematic web interfaces. 
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fs0cietyx&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs0cietyx&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://metrics.lecoq.io/fs0cietyx?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FCalcutta&config.display=large&config.theme=dark&config.border=0" width="100%" alt="Metrics" />
 </div>
 
 ###
