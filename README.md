@@ -55,7 +55,7 @@
 <br>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/fs0cietyx?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" alt="Mainak's GitHub Metrics" width="100%" />
+  <img src="github-metrics.svg" alt="Mainak's GitHub Metrics" width="100%" />
 </div>
 
 <br>
