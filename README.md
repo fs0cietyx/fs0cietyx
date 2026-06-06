@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/1d/ce/ec/1dceec978bebbdff33f830a8e0ae98d9.gif" width="100%" alt="Monochrome Banner" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Mainak;Creative+Technologist;ML+Engineer;Building+Zero-Trust+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Mainak;CS+student+and+developer;turning+complex+problems+into;intelligent+solutions" alt="Typing SVG" />
 </div>
 
 <br>
@@ -23,13 +23,13 @@
 
 ---
 
-### 📂 SYSTEM_OVERVIEW
-> **Bridging the gap between Machine Learning and Creative Engineering.**  
+### 📂 ABOUT ME
+> **Bridging the gap between Machine Learning and 3am coffee.**  
 > Specialized in high-performance cinematic interfaces and secure ML architectures.
 
 <br>
 
-### 🛠️ TECH_STACK
+### 🛠️ WHAT I'VE PLAYED AROUND WITH
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/white" height="30" alt="python"  />
   <img width="10" />
@@ -50,7 +50,7 @@
 
 <br>
 
-### 🚀 FEATURED_WORK
+### 🚀 NOTABLE PROJECTS
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -62,9 +62,9 @@
 
 ### 📬 CONNECT_WITH_ME
 <p align="left">
-  <a href="https://linkedin.com/in/fs0cietyx"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&border=1px" /></a>
-  <a href="https://instagram.com/fs0cietyx"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mainak-biswas-740b89410?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&border=1px" /></a>
+  <a href="https://instagram.com/fushigurp"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:mainakbiswas22@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br>
