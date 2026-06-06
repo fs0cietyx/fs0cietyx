@@ -33,6 +33,12 @@
         <img width="8" />
         <img src="https://cdn.simpleicons.org/tailwindcss/white" height="25" alt="tailwindcss" />
         <img width="8" />
+        <img src="https://cdn.simpleicons.org/scikitlearn/white" height="25" alt="scikit-learn" />
+        <img width="8" />
+        <img src="https://cdn.simpleicons.org/pandas/white" height="25" alt="pandas" />
+        <img width="8" />
+        <img src="https://cdn.simpleicons.org/framer/white" height="25" alt="framer" />
+        <img width="8" />
         <img src="https://cdn.simpleicons.org/cplusplus/white" height="25" alt="c++" />
         <img width="8" />
         <img src="https://cdn.simpleicons.org/linux/white" height="25" alt="linux" />
