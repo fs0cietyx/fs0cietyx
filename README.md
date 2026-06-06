@@ -14,7 +14,11 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fs0cietyx/fs0cietyx/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fs0cietyx/fs0cietyx/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fs0cietyx/fs0cietyx/output/github-contribution-grid-snake.svg">
+    <img alt="Snake" src="https://raw.githubusercontent.com/fs0cietyx/fs0cietyx/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
