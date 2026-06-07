@@ -55,7 +55,8 @@
 <br>
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Mainak's GitHub Metrics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fs0cietyx&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Mainak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs0cietyx&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
