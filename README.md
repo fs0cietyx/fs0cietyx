@@ -75,9 +75,9 @@
 
 | Project |  | Stack |
 | :--- | :--- | :--- |
-| **ai-slop-detector** | A digital Febreze for your timeline-neutralizing AI slop before it spreads. | `ML` `FastAPI` |
-| **cancer-prediction** | Teaching math to fight bio-drama because cells be acting up sometimes. | `SHAP` `Scikit-learn` |
-| **studio-portfolio** | GPU-accelerated eye candy that uses more power than my last 3 browser tabs. | `React 19` `Motion` |
+| [**ai-slop-detector**](https://github.com/fs0cietyx/ai-slop-detector) | A digital Febreze for your timeline-neutralizing AI slop before it spreads. | `ML` `FastAPI` |
+| [**cancer-prediction**](https://github.com/fs0cietyx/CytoGraph-ML) | Teaching math to fight bio-drama because cells be acting up sometimes. | `SHAP` `Scikit-learn` |
+| [**studio-portfolio**](https://github.com/fs0cietyx/mainak-studio-v2) | GPU-accelerated eye candy that uses more power than my last 3 browser tabs. | `React 19` `Motion` |
 
 <br>
 
