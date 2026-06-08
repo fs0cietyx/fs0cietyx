@@ -55,7 +55,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-one-chi-16.vercel.app/api?username=fs0cietyx&theme=transparent&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true" alt="Mainak's GitHub Stats" />
+  <img src="https://github-readme-stats-one-chi-16.vercel.app/api?username=fs0cietyx&theme=transparent&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&rank_icon=github" alt="Mainak's GitHub Stats" />
   <img src="https://github-readme-stats-one-chi-16.vercel.app/api/top-langs/?username=fs0cietyx&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Top Languages" />
 </div>
 
